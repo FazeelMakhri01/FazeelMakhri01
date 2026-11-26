@@ -3,8 +3,12 @@
 
 ## 🚀 About Me
 I'm a highly driven DevOps Engineer pursuing a Master's in Cyber Security at the University of Hertfordshire. I specialize in building secure, scalable, and automated cloud infrastructure with a strong focus on AWS, containerization, and CI/CD automation. Passionate about advancing in the DevSecOps domain and contributing to cloud security and modern engineering practices.
+## 🔨 What I'm building
+A public DevOps portfolio. Every project starts from one template:
+- [devops-project-template](https://github.com/FazeelMakhri01/devops-project-template): gitignore, branch protection, PR template, ADRs, CI
+- More projects coming soon
 
-- 🔭 **Currently working on:** Advanced cyber security research and DevOps implementations at AWS
+- 🔭 **Currently working on:** Hands-on AWS projects in my own lab (Terraform, CI/CD, Kubernetes)
 - 🌱 **Currently mastering:** Distributed Systems Security and Cloud Security
 - 💼 **Professional focus:** DevSecOps, Infrastructure as Code, CI/CD automation, and Cloud monitoring
 - 🎯 **Recent achievement:** Achieved AWS Solutions Architect Associate certification with 80% score
